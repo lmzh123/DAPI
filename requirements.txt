@@ -1,0 +1,6 @@
+pytesseract==0.2.4
+pandas==0.23.0
+opencv==3.4.1
+numpy==1.14.3
+json==2.0.9
+
